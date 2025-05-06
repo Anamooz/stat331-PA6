@@ -1,6 +1,6 @@
 ---
 title: "Practice Activity 6"
-author: Jonathan,Trycia, ELi
+author: Jonathan Garcia,Trycia Vong, ELi Newman
 format: html
 editor: visual
 embed-resources: true
