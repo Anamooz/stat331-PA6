@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: jonathan garcia, trycia vong, eli newman
 format: html
 editor: visual
 embed-resources: true
