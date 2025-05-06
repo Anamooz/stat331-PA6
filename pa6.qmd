@@ -5,5 +5,3 @@ format: html
 editor: visual
 embed-resources: true
 ---
-
-## 
